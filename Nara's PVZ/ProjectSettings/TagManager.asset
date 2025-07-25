@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tile
+  - Water
+  - UI
+  - Plants
+  - Projectiles
+  - Zombies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2986962895
+    locked: 0
+  - name: UI
+    uniqueID: 961252631
+    locked: 0
+  - name: Plants
+    uniqueID: 1969496613
+    locked: 0
+  - name: Zombies
+    uniqueID: 3169916559
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4290120859
+    locked: 0
