@@ -182,4 +182,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawn: {fileID: 244520740501076758}
   sun: {fileID: 7258633084671721915, guid: 2c528685289116f4991c2de7dfe028b0, type: 3}
-  cooldown: 5
+  cooldown: 24
